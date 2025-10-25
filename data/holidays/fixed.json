@@ -1,0 +1,32 @@
+[
+    {
+        "month": 1,
+        "day": 1,
+        "name": "Tahun Baru Masehi",
+        "type": "libur"
+    },
+    {
+        "month": 5,
+        "day": 1,
+        "name": "Hari Buruh Internasional",
+        "type": "libur"
+    },
+    {
+        "month": 6,
+        "day": 1,
+        "name": "Hari Lahir Pancasila",
+        "type": "libur"
+    },
+    {
+        "month": 8,
+        "day": 17,
+        "name": "Hari Kemerdekaan RI",
+        "type": "libur"
+    },
+    {
+        "month": 12,
+        "day": 25,
+        "name": "Hari Raya Natal",
+        "type": "libur"
+    }
+]
