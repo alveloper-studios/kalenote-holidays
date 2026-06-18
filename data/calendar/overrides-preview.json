@@ -20,7 +20,8 @@
   },
   "jawa": {
     "month_lengths": {
-      "1959-Sela": 29
+      "1959-Sela": 29,
+      "1959-Besar": 30
     }
   }
 }
