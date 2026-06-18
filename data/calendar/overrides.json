@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated_at": "2026-06-18T00:00:00Z",
+  "hijri": {
+    "global_day_offset": 0,
+    "reference": {
+      "gregorian_date": "2025-06-27",
+      "year": 1447,
+      "month": 1,
+      "day": 1
+    },
+    "month_lengths": {
+      "1447-8": 30,
+      "1447-9": 30,
+      "1447-10": 29,
+      "1447-11": 29,
+      "1447-12": 29,
+      "1448-8": 30
+    }
+  },
+  "jawa": {
+    "month_lengths": {
+      "1959-Sela": 29
+    }
+  }
+}
